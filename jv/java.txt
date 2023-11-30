@@ -1,0 +1,41 @@
+ class 11...
+comparision operators:
+results of comparision ope is true or false.
+
+cls 12..
+if statemnt.
+
+cls 13..
+three types of logical operators
+1.logical and. => &&
+2.logical or. => ||
+3.logical not. => !
+
+cls 14..
+if 
+cls 15.
+if else statement..
+cls 16..
+ternary operators.
+syntax:
+var a = 100
+var b;
+(a < b)? b = "ahmed khan" : b = "saram khana"
+
+clSS 19..
+CONFIRM BOX
+CONFIRM("FOR ASKING ANY QUESTION")
+
+CLASS 21..
+FUNCTION.
+
+
+
+
+
+
+
+
+
+
+
